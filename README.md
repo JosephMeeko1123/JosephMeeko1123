@@ -19,6 +19,7 @@ I bring 5+ years of ownership across production SaaS, APIs and integrations, AWS
 
 Recent client and production work remains in private repositories. My public projects provide confidentiality-safe, independently inspectable evidence of developer tooling, CI-ready diagnostics, product ownership, and production-reliability practices.
 
+- **[Two Pennies]([https://github.com/JosephMeeko1123/mv3-doctor](https://apps.apple.com/us/app/two-pennies/id6755612867)** —  — A published iPhone and iPad budgeting app for couples and families, with shared budgets, transaction comments, and offline entry.
 - **[MV3 Doctor](https://github.com/JosephMeeko1123/mv3-doctor)** — Dependency-free Manifest V3 service-worker reliability preflight and GitHub Action.
 - **[Deploy Doctor](https://github.com/JosephMeeko1123/deploy-doctor)** — Deployment preflight tooling for React, Vite, and Node production cutovers.
 - **[Run Punch Man](https://github.com/JosephMeeko1123/run-punch-man)** — A public product and consistency project built around a 1,000+ day daily fitness streak.
